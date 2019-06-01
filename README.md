@@ -15,3 +15,6 @@ python pyDailyDomain.py
 
 After running the above script, it will start downloading the newly registered domain lists.
 This is one of 3 methods which i'm using to detect Phishing websites.
+
+I've uploaded the crawled data to https://mega.nz/#F!pf52xKTB!-zu36Ou8WFQUWPgyl4JhhA
+Hopefully it will be useful to someone out there.
